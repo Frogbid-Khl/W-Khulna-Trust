@@ -37,7 +37,6 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="banner-content">
-
                                     <h1>খুলনা ট্রাস্ট</h1>
                                     <p>অসহায় ও দরিদ্র মানুষের কল্যাণের জন্য ০৭/০৭/৮০ খ্রিষ্টাব্দে প্রতিষ্ঠিত হয়।
                                         ০৯/০২/১৭ - খ্রিষ্টাব্দে ট্রাস্টি বোর্ডের বিশেষ সভার মাধ্যেমে খান-এ-সবুর ট্রাস্ট
@@ -92,7 +91,7 @@
                                 ট্রাস্টি বোর্ডের সভার সিদ্ধান্ত মোতাবেক ২৬/০৮/৮৩ খ্রিষ্টাব্দ হতে জেলা প্রশাসক, খুলনা
                                 পদাধিকারবলে ম্যানেজিং ট্রাস্টি হিসেবে দায়িত্ব পালন করে থাকেন।</p>
                             <div class="about-btn-area">
-                                <a class="common-btn" href="#">Read More</a>
+                                <a class="common-btn" href="#">আরও বিস্তারিত</a>
                             </div>
                         </div>
                     </div>
@@ -110,17 +109,17 @@
                 <div class="row " style="text-align: justify">
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item" >
-                            <p class="mb-5">জনাব এ, এইচ শামসুদ্দিন খান
+                            <p class="">জনাব এ, এইচ শামসুদ্দিন খান
                                 (ট্রাস্টের প্রতিষ্ঠাতা মরহুম খান-এ-সবুরের ভ্রাতুষ্পুত্র। তিনি চট্টগ্রামে থাকেন, শারীরিকভাবে
                                 অসুস্থ)</p>
-                            <span class="sub-span">01</span>
+                            <span class="sub-span">০১</span>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
-                            <p class="mb-5">বেগম আসমাত আরা খানম
+                            <p class="">বেগম আসমাত আরা খানম
                                 (ট্রাস্টের প্রতিষ্ঠাতা মরহুম খান-এ-সবুরের ভাইঝি। তিনি মৃত্যুবরণ করেছেন, তার স্থলে কোন ট্রাস্টি নিয়োগ হয়নি) </p>
-                            <span class="sub-span">02</span>
+                            <span class="sub-span">০২</span>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-4">
@@ -128,26 +127,26 @@
                             <p> জনাব খান শফিক আহম্মেদ
                                 (ট্রাস্টের প্রতিষ্ঠাতা মরহুম খান-এ-সবুরের ভ্রাতুষ্পুত্র। তিনি খুলনা থাকেন। ট্রাস্টি সদস্য কাজী জাহানারা খানমের মৃত্যুজনিত কারণে ট্রাস্টি বোর্ডের ৫৩ তম সভার সিদ্ধান্তের আলোকে জনাব খান শফিক আহম্মদকে ট্রাস্টি সদস্য মনোনীত করা হয়)</p>
 
-                            <span class="sub-span">03</span>
+                            <span class="sub-span">০৩</span>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <p> সভাপতি, খুলনা চেম্বার অব কমার্স এন্ড ইন্ডাস্ট্রি- এক্সঅফিসও ট্রাস্টি সদস্য</p>
-                            <span class="sub-span">04</span>
+                            <span class="sub-span">০৪</span>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <p>উপ-পরিচালক, সমাজ সেবা অধিদপ্তর, খুলনা পদাধিকারবলে ট্রাস্টি সদস্য।
                                 (ট্রাস্টি সদস্য বেগম রোকেয়া মান্নান এর মৃত্যুজনিত কারণে ট্রাস্টি বোর্ডের ৬৮তম সভার সিদ্ধান্ত মোতাবেক উপ-পরিচালক, সমাজসেবা অধিদপ্তর, খুলনা এক্স-অফিসিও ট্রাস্টি সদস্য মনোনীত হয়েছেন</p>
-                            <span class="sub-span">05</span>
+                            <span class="sub-span">০৫</span>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-4">
                         <div class="dream-item">
                             <p>ট্রাস্টি সদস্য ড. রওশন জাহান মান্নান বিগত ১৩ জানুয়ারি ২০১৫ তারিখ মৃত্যুবরণ করেছেন। তার স্থলে কোন ট্রাস্টি সদস্য নিয়োগ করা হয়নি। ট্রাস্টি বোর্ডের ৭৩তম সভায় বিদ্যমান ট্রাস্টি সদস্যরাই ট্রাস্টি বোর্ড পরিচালনার জন্য যথেষ্ট মর্মে সিদ্ধান্ত গৃহীত হয়েছে।</p>
-                            <span class="sub-span">06</span>
+                            <span class="sub-span">০৬</span>
                         </div>
                     </div>
                 </div>
@@ -712,7 +711,7 @@
                                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                     dolor
                                     laudantium distinction</p>
-                                <a class="blog-btn" href="blog-details.html">Read More</a>
+                                <a class="blog-btn" href="blog-details.html">আরও বিস্তারিত</a>
                             </div>
                         </div>
                     </div>
@@ -741,7 +740,7 @@
                                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                     dolor
                                     laudantium distinction</p>
-                                <a class="blog-btn" href="blog-details.html">Read More</a>
+                                <a class="blog-btn" href="blog-details.html">আরও বিস্তারিত</a>
                             </div>
                         </div>
                     </div>
@@ -770,7 +769,7 @@
                                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate sit ducimus
                                     dolor
                                     laudantium distinction</p>
-                                <a class="blog-btn" href="blog-details.html">Read More</a>
+                                <a class="blog-btn" href="blog-details.html">আরও বিস্তারিত</a>
                             </div>
                         </div>
                     </div>

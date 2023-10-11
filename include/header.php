@@ -56,7 +56,7 @@
                     </ul>
                     <div class="side-nav">
                         <a class="donate-btn" href="#">
-                            অনুদান প্রদান করুন
+                            অনুদান
                             <i class="icofont-heart-alt"></i>
                         </a>
                     </div>
