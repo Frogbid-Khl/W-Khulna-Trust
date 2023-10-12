@@ -1,0 +1,6 @@
+ErrorDocument 404 https://wayshk.ngt.hk/W-Wayshk/404.php
+
+RewriteEngine on
+
+RewriteRule ^Home index.php [NE,L]
+RewriteRule ^Gallery gallery.php [NE,L]
