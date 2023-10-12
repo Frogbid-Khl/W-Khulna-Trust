@@ -127,7 +127,7 @@ include('include/header.php');
                         <img src="assets/img/new/Avatar-1.jpg" style="width:50%" alt="Team">
                     </div>
                     <div class="bottom">
-                        <h3> জনাি খান শকিিত আহষম্মদ</h3>
+                        <h3>জনাব খান শফিক আহম্মদ</h3>
                         <p class="" style="height:160px; text-align: justify">ট্রাস্টের প্রতিষ্ঠাতা মরহুম
                             খান-এ-সবুরের ভ্রাতুষ্পুত্র। তিনি খুলনা থাকেন।
                             ট্রাস্টি সদস্য কাজী জাহানারা খানমের মৃত্যুজনিত কারণে ট্রাস্টি বোর্ডের ৫৩ তম সভার
