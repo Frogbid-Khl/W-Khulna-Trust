@@ -101,7 +101,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>জনাব এ, এইচ শামসুদ্দিন খান</h3>
-                        <p style="height: 130px; text-align: justify">
+                        <p style="height: 160px; text-align: justify">
                             ট্রাস্টের প্রতিষ্ঠাতা মরহুম খান-এ-সবুরের ভ্রাতুষ্পুত্র। তিনি চট্টগ্রামে থাকেন,
                             শারীরিকভাবে
                             অসুস্থ</p>
@@ -115,7 +115,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>বেগম আসমাত আরা খানম</h3>
-                        <p class="" style="height: 130px; text-align: justify">ট্রাস্টের প্রতিষ্ঠাতা মরহুম
+                        <p class="" style="height: 160px; text-align: justify">ট্রাস্টের প্রতিষ্ঠাতা মরহুম
                             খান-এ-সবুরের ভাইঝি। তিনি মৃত্যুবরণ করেছেন, তার
                             স্থলে কোন ট্রাস্টি নিয়োগ হয়নি</p>
                     </div>
@@ -128,7 +128,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3> জনাি খান শকিিত আহষম্মদ</h3>
-                        <p class="" style="height:130px; text-align: justify">ট্রাস্টের প্রতিষ্ঠাতা মরহুম
+                        <p class="" style="height:160px; text-align: justify">ট্রাস্টের প্রতিষ্ঠাতা মরহুম
                             খান-এ-সবুরের ভ্রাতুষ্পুত্র। তিনি খুলনা থাকেন।
                             ট্রাস্টি সদস্য কাজী জাহানারা খানমের মৃত্যুজনিত কারণে ট্রাস্টি বোর্ডের ৫৩ তম সভার
                             সিদ্ধান্তের আলোকে জনাব খান শফিক আহম্মদকে ট্রাস্টি সদস্য মনোনীত করা হয়</p>
@@ -142,7 +142,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>সভাপতি </h3>
-                        <p style="height: 130px; text-align: justify"> সভাপতি, খুলনা চেম্বার অব কমার্স এন্ড
+                        <p style="height: 160px; text-align: justify"> সভাপতি, খুলনা চেম্বার অব কমার্স এন্ড
                             ইন্ডাস্ট্রি- এক্সঅফিসও ট্রাস্টি সদস্য</p>
                     </div>
                 </div>
@@ -154,7 +154,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>উপ-পরিচালক</h3>
-                        <p style="height: 130px; text-align: justify">উপ-পরিচালক, সমাজ সেবা অধিদপ্তর, খুলনা
+                        <p style="height: 160px; text-align: justify">উপ-পরিচালক, সমাজ সেবা অধিদপ্তর, খুলনা
                             পদাধিকারবলে ট্রাস্টি সদস্য। (ট্রাস্টি সদস্য
                             বেগম রোকেয়া মান্নান এর মৃত্যুজনিত কারণে ট্রাস্টি বোর্ডের ৬৮তম সভার সিদ্ধান্ত
                             মোতাবেক উপ-পরিচালক, সমাজসেবা অধিদপ্তর, খুলনা এক্স-অফিসিও ট্রাস্টি সদস্য মনোনীত
@@ -169,7 +169,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>ড. রওশন জাহান মান্নান</h3>
-                        <p style="height: 130px; text-align: justify">ট্রাস্টি সদস্য ড. রওশন জাহান মান্নান বিগত
+                        <p style="height: 160px; text-align: justify">ট্রাস্টি সদস্য ড. রওশন জাহান মান্নান বিগত
                             ১৩ জানুয়ারি ২০১৫ তারিখ মৃত্যুবরণ করেছেন।
                             তার স্থলে কোন ট্রাস্টি সদস্য নিয়োগ করা হয়নি। ট্রাস্টি বোর্ডের ৭৩তম সভায় বিদ্যমান
                             ট্রাস্টি সদস্যরাই ট্রাস্টি বোর্ড পরিচালনার জন্য যথেষ্ট মর্মে সিদ্ধান্ত গৃহীত
@@ -316,7 +316,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3> জেলা প্রশাসক</h3>
-                        <p style="height: 130px; text-align: justify">
+                        <p style="height: 160px; text-align: justify">
                             জেলা প্রশাসক, খুলনা পদাধিকারবলে ম্যানেজিং ট্রাস্টি হিসেবে যাবতীয় প্রশাসনিক ও আর্থিক
                             কার্যাবলী সম্পাদন করেন।</p>
                     </div>
@@ -329,7 +329,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>অতিরিক্ত জেলা প্রশাসক </h3>
-                        <p class="" style="height: 130px; text-align: justify">অতিরিক্ত জেলা প্রশাসক (সার্বিক),
+                        <p class="" style="height: 160px; text-align: justify">অতিরিক্ত জেলা প্রশাসক (সার্বিক),
                             খুলনা</p>
                     </div>
                 </div>
@@ -341,7 +341,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>ভারপ্রাপ্ত কর্মকর্তা- নেজারত ডেপুটি কালেক্টর</h3>
-                        <p class="" style="height:130px; text-align: justify">ভারপ্রাপ্ত কর্মকর্তা- নেজারত
+                        <p class="" style="height:160px; text-align: justify">ভারপ্রাপ্ত কর্মকর্তা- নেজারত
                             ডেপুটি কালেক্টর, খুলনা এ দায়িত্ব পালন করেন।</p>
                     </div>
                 </div>
@@ -353,7 +353,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>জনাব খান আনিসুজ্জামান</h3>
-                        <p style="height: 130px; text-align: justify"> উপ-প্রশাসনিক কর্মকর্তা জনাব খান
+                        <p style="height: 160px; text-align: justify"> উপ-প্রশাসনিক কর্মকর্তা জনাব খান
                             আনিসুজ্জামান (জেলা নাজির)</p>
                     </div>
                 </div>
@@ -365,7 +365,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>জনাব গোলাম মুহাইমিন</h3>
-                        <p style="height: 130px; text-align: justify">অফিস সহকারী- জনাব গোলাম মুহাইমিন,
+                        <p style="height: 160px; text-align: justify">অফিস সহকারী- জনাব গোলাম মুহাইমিন,
                             নেজারত শাখা</p>
                     </div>
                 </div>
@@ -377,7 +377,7 @@ include('include/header.php');
                     </div>
                     <div class="bottom">
                         <h3>জনাব মোঃ কামরুল ইসলাম</h3>
-                        <p style="height: 130px; text-align: justify">অফিস সহায়ক- জনাব মোঃ কামরুল ইসলাম,
+                        <p style="height: 160px; text-align: justify">অফিস সহায়ক- জনাব মোঃ কামরুল ইসলাম,
                             নেজারত শাখা</p>
                     </div>
                 </div>
