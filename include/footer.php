@@ -40,13 +40,13 @@
                         <h3>দ্রুত লিঙ্ক</h3>
                         <ul>
                             <li>
-                                <a href="#">
+                                <a href="Asset">
                                     <i class="icofont-simple-right"></i>
                                     ট্রাস্টভুক্ত সম্পত্তি
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="IncomeSource">
                                     <i class="icofont-simple-right"></i>
                                     ট্রাস্টের আয়ের উৎস
                                 </a>
@@ -58,7 +58,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="Contact">
                                     <i class="icofont-simple-right"></i>
                                     যোগাযোগ
                                 </a>

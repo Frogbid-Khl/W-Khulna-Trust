@@ -14,10 +14,9 @@
             <div class="col-lg-8">
                 <div class="right">
                     <div class="language">
-                        <select>
-                            <option>বাংলা</option>
-                            <option>English</option>
-                        </select>
+                        <div class="language-selector" style="display: block;">
+                            <div id="google_translate_element"></div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -39,21 +38,21 @@
             <nav class="navbar navbar-expand-md navbar-light">
                 <a class="navbar-brand" href="Home">
                     <img src="assets/img/new/img.png" class="logo-one" alt="Logo">
-                    <!--   <img src="assets/img/logo-two.png" class="logo-two" alt="Logo">-->
+
                 </a>
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="#" class="nav-link">ট্রাস্টভুক্ত সম্পত্তি</a>
+                            <a href="Asset" class="nav-link">ট্রাস্টভুক্ত সম্পত্তি</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">ট্রাস্টের আয়ের উৎস </a>
+                            <a href="IncomeSource" class="nav-link">ট্রাস্টের আয়ের উৎস </a>
                         </li>
                         <li class="nav-item">
                             <a href="Gallery" class="nav-link">চিত্রশালা</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">যোগাযোগ</a>
+                            <a href="Contact" class="nav-link">যোগাযোগ</a>
                         </li>
                     </ul>
                     <div class="side-nav">

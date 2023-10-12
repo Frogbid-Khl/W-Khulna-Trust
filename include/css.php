@@ -27,4 +27,37 @@
 
 <link rel="stylesheet" href="assets/css/theme-dark.css">
 
-<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="icon" type="image/png" href="assets/img/new/fav.png">
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'bn',
+            includedLanguages: 'en,bn',
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+        }, 'google_translate_element');
+    }
+</script>
+
+<style>
+    .goog-te-gadget-icon {
+        display: none;
+    }
+
+    .goog-te-gadget-simple {
+        background: none;
+        border: none;
+    }
+
+    .goog-te-gadget-simple .goog-te-menu-value {
+        color: white;
+    }
+
+    .btn-link:hover {
+        text-decoration: none;
+    }
+    .goog-te-gadget-simple .VIpgJd-ZVi9od-xl07Ob-lTBxed {
+        color: white;
+    }
+</style>

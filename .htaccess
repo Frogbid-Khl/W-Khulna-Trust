@@ -4,3 +4,6 @@ RewriteEngine on
 
 RewriteRule ^Home index.php [NE,L]
 RewriteRule ^Gallery gallery.php [NE,L]
+RewriteRule ^Contact contact.php [NE,L]
+RewriteRule ^Asset trust-assets.php [NE,L]
+RewriteRule ^IncomeSource income-source.php [NE,L]
