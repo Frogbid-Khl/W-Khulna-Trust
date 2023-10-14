@@ -52,6 +52,12 @@
                                 </a>
                             </li>
                             <li>
+                                <a href="Donation">
+                                    <i class="icofont-simple-right"></i>
+                                    শিক্ষা খাতে অনুদান
+                                </a>
+                            </li>
+                            <li>
                                 <a href="Gallery">
                                     <i class="icofont-simple-right"></i>
                                    চিত্রশালা

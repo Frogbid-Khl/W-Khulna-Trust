@@ -181,68 +181,6 @@ include('include/header.php');
     </div>
 </section>
 
-<!--  সম্মানিত ট্রাস্টি সদস্যগণ :-->
-
-<!--       <section class="dream-area pt-100 pb-70">
-           <div class="container">
-               <h2 class="mb-5 text-center">
-                   সম্মানিত ট্রাস্টি সদস্যগণ :
-               </h2>
-               <div class="row " style="text-align: justify">
-                   <div class="col-sm-6 col-lg-4">
-                       <div class="dream-item">
-                           <p class="">জনাব এ, এইচ শামসুদ্দিন খান
-                               (ট্রাস্টের প্রতিষ্ঠাতা মরহুম খান-এ-সবুরের ভ্রাতুষ্পুত্র। তিনি চট্টগ্রামে থাকেন,
-                               শারীরিকভাবে
-                               অসুস্থ)</p>
-                           <span class="sub-span">০১</span>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-lg-4">
-                       <div class="dream-item">
-                           <p class="">বেগম আসমাত আরা খানম
-                               (ট্রাস্টের প্রতিষ্ঠাতা মরহুম খান-এ-সবুরের ভাইঝি। তিনি মৃত্যুবরণ করেছেন, তার স্থলে কোন
-                               ট্রাস্টি নিয়োগ হয়নি) </p>
-                           <span class="sub-span">০২</span>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-lg-4">
-                       <div class="dream-item">
-                           <p> জনাব খান শফিক আহম্মেদ
-                               (ট্রাস্টের প্রতিষ্ঠাতা মরহুম খান-এ-সবুরের ভ্রাতুষ্পুত্র। তিনি খুলনা থাকেন। ট্রাস্টি
-                               সদস্য কাজী জাহানারা খানমের মৃত্যুজনিত কারণে ট্রাস্টি বোর্ডের ৫৩ তম সভার সিদ্ধান্তের
-                               আলোকে জনাব খান শফিক আহম্মদকে ট্রাস্টি সদস্য মনোনীত করা হয়)</p>
-
-                           <span class="sub-span">০৩</span>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-lg-4">
-                       <div class="dream-item">
-                           <p> সভাপতি, খুলনা চেম্বার অব কমার্স এন্ড ইন্ডাস্ট্রি- এক্সঅফিসও ট্রাস্টি সদস্য</p>
-                           <span class="sub-span">০৪</span>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-lg-4">
-                       <div class="dream-item">
-                           <p>উপ-পরিচালক, সমাজ সেবা অধিদপ্তর, খুলনা পদাধিকারবলে ট্রাস্টি সদস্য।
-                               (ট্রাস্টি সদস্য বেগম রোকেয়া মান্নান এর মৃত্যুজনিত কারণে ট্রাস্টি বোর্ডের ৬৮তম সভার
-                               সিদ্ধান্ত মোতাবেক উপ-পরিচালক, সমাজসেবা অধিদপ্তর, খুলনা এক্স-অফিসিও ট্রাস্টি সদস্য মনোনীত
-                               হয়েছেন</p>
-                           <span class="sub-span">০৫</span>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-lg-4">
-                       <div class="dream-item">
-                           <p>ট্রাস্টি সদস্য ড. রওশন জাহান মান্নান বিগত ১৩ জানুয়ারি ২০১৫ তারিখ মৃত্যুবরণ করেছেন। তার
-                               স্থলে কোন ট্রাস্টি সদস্য নিয়োগ করা হয়নি। ট্রাস্টি বোর্ডের ৭৩তম সভায় বিদ্যমান ট্রাস্টি
-                               সদস্যরাই ট্রাস্টি বোর্ড পরিচালনার জন্য যথেষ্ট মর্মে সিদ্ধান্ত গৃহীত হয়েছে।</p>
-                           <span class="sub-span">০৬</span>
-                       </div>
-                   </div>
-               </div>
-           </div>
-       </section>-->
-
 <!--  How we work-->
 <section class="work-area pt-100 pb-70">
     <div class="container">
@@ -386,48 +324,6 @@ include('include/header.php');
     </div>
 </section>
 
-<!--      <div class="feature-area pt-100 pb-70">
-          <div class="container">
-              <div class="row">
-                  <div class="col-sm-6 col-lg-4">
-                      <div class="feature-item">
-                          <i class="flaticon-solidarity"></i>
-                          <h3>
-                              <a href="#">Be a volunteer</a>
-                          </h3>
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular
-                              belief is not
-                              simply.</p>
-                          <a class="feature-btn" href="#">Join Now</a>
-                      </div>
-                  </div>
-                  <div class="col-sm-6 col-lg-4">
-                      <div class="feature-item two">
-                          <i class="flaticon-donation"></i>
-                          <h3>
-                              <a href="#">Donate now</a>
-                          </h3>
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular
-                              belief is not
-                              simply.</p>
-                          <a class="feature-btn" href="#">Join Now</a>
-                      </div>
-                  </div>
-                  <div class="col-sm-6 offset-sm-3 offset-lg-0 col-lg-4">
-                      <div class="feature-item three">
-                          <i class="flaticon-love"></i>
-                          <h3>
-                              <a href="#">Show your love</a>
-                          </h3>
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply rom text. Contrary to popular
-                              belief is not
-                              simply.</p>
-                          <a class="feature-btn" href="#">Join Now</a>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>-->
 
 <!--    gallery-->
 <section class="gallery-area pt-30 pb-70">

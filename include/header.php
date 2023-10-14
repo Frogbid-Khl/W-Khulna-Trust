@@ -6,7 +6,7 @@
                     <ul>
                         <li>
                             <i class="icofont-ui-call"></i>
-                            <a href="tel:+0123456987">+০০০০০০০০০</a>
+                            <a href="tel:+0000000">+০০০০০০০০০</a>
                         </li>
                     </ul>
                 </div>
@@ -47,6 +47,9 @@
                         </li>
                         <li class="nav-item">
                             <a href="IncomeSource" class="nav-link">ট্রাস্টের আয়ের উৎস </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="Donation" class="nav-link">শিক্ষা খাতে অনুদান</a>
                         </li>
                         <li class="nav-item">
                             <a href="Gallery" class="nav-link">চিত্রশালা</a>
