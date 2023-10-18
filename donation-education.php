@@ -37,7 +37,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -58,7 +58,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -79,7 +79,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -100,7 +100,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -121,7 +121,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -142,7 +142,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -163,7 +163,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -184,7 +184,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -205,7 +205,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -226,7 +226,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -247,7 +247,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -268,7 +268,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -289,7 +289,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -310,7 +310,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -331,7 +331,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -352,7 +352,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -373,7 +373,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -394,7 +394,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -415,7 +415,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -436,7 +436,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -457,7 +457,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -478,7 +478,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -499,7 +499,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -520,7 +520,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -541,7 +541,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -562,7 +562,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -583,7 +583,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -604,7 +604,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -625,7 +625,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -646,7 +646,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -667,7 +667,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
@@ -688,7 +688,7 @@ include('include/header.php')
                 <div class="donation-item">
                     <div class="img">
                         <img src="assets/img/donation/donation1.jpg" alt="Donation">
-                        <a class="common-btn" href="donation-details.html">অনুদান</a>
+                        <a class="common-btn" href="#">অনুদান</a>
                     </div>
                     <div class="inner">
                         <div class="top">
